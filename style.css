@@ -1,5 +1,7 @@
 body{
     background-color: darkgray;
     color: black 
-    ;
+}
+.cabeçalho-imagem{
+    width: 20%
 }
