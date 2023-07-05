@@ -1,7 +1,15 @@
-body{
+.cabeçalho {
     background-color: darkgray;
-    color: black 
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: padding 24px 0;
 }
 .cabeçalho-imagem{
     width: 20%
+}
+.cabeçalho-lisa-item{
+display: inline-block;
+margin: 0 16px
+fomt-size:24px
 }
