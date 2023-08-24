@@ -1,6 +1,6 @@
 .cabeçalho {
-    background-color: darkgray;
-    color: black;
+    background-color: rgb(255, 3, 3);
+    color: rgb(253, 3, 3);
     display: flex;
     justify-content: space-around;
     align-items: padding 24px 0;
@@ -10,6 +10,6 @@
 }
 .cabeçalho-lisa-item{
 display: inline-block;
+font-size: 24px;
 margin: 0 16px
-fomt-size:24px
 }
